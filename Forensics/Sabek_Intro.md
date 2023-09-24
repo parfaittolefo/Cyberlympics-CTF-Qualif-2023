@@ -14,7 +14,6 @@ Sabek College has a Critical Server that is used for The Institution Website Hos
 
 The flag is acdfCTF{number_of_packets_}
 
-So open the Sabek1.pcap with [wireshark](https://www.wireshark.org/), under `Statistic/Capture file propeties` you will find `Captured`. The captured
-number is there.
+So open the Sabek1.pcap with [wireshark](https://www.wireshark.org/), under `Statistic/Capture file propeties` you will find `Captured`. The number of captured packet is there.
 
 **FLAG:**  _acdfCTF{3322}_
