@@ -18,3 +18,5 @@ cat flag.txt
 ![image](result1.png)
 
 **FLAG:** `acdfCTF{Cyb3rlymp1cs_w4rmup_pyj41l_v3ry_345y_r1ght?}`
+
+**Reference**: https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes
