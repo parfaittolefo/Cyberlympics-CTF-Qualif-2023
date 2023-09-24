@@ -7,7 +7,4 @@ Flag Format: acdfCTF{}
 File: [**recipe**](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/raw/main/chal_files/recipe)
 
 
-<details><summary>Solution</summary>
-
-
-</details>
+# Solution
