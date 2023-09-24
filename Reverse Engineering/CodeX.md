@@ -8,5 +8,7 @@ Flag Format: acdfCTF{}
 
 File: [**recipe**](https://gitlab.com/n4t10n/specifique-writeup/-/blob/main/Writeup_Hackerlab_Qualif_2023/Basic/Challenge%20file/LougaDanxomeRou.zip)
 
+</details>
+
 #Solution
 <details><summary>Solution</summary></details>
