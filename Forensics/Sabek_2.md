@@ -23,7 +23,7 @@ From Sabek 1, we know that the target is _192.168.0.37_ and the hacker is _192.1
 
 ![image](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/assets/78282359/144a04f8-1e77-4339-bc85-eb8acb354bc2)
 
-So look at the packets, I noticed that, he/she try list a directory content with `dir` cmd
+So look at the packets, I noticed that, he/she try to list a directory content with `dir` cmd
 
 ![image](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/assets/78282359/db283856-2364-40ec-adf6-979fb08b1808)
 
