@@ -20,8 +20,8 @@ Under **Statistic/Capture file propeties** you will find **time**
 
 ![image](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/assets/78282359/5f070827-3143-4222-ba13-a621a61736d0)
 
-The time should be ** WAT time (UTC +1)**
-I am using ** WAT time (UTC +2)**
+The time should be **WAT time (UTC +1)**
+I am using **WAT time (UTC +2)**
 
 **FLAG**: acdfCTF{2018-04-04 12:15:51&2018-04-04 12:27:17}
 
