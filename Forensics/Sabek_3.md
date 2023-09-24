@@ -13,7 +13,7 @@ Question: What file did the attacker upload to the compromised server for a shel
 
 FLAG FORMAT: acdfCTF{zoo.elf,4444}
 
-[Sabek1.pcap]()
+[Sabek1.pcap](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/chal_files/Sabek1.pcap)
 
 # Solution
 
