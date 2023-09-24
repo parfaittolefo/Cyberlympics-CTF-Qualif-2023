@@ -17,4 +17,4 @@ The flag is acdfCTF{number_of_packets_}
 So open the Sabek1.pcap with [wireshark](https://www.wireshark.org/), under `Statistic/Capture file propeties` you will find `Captured`. The captured
 number is there.
 
-**FLAG:**acdfCTF{3322}
+**FLAG:** _acdfCTF{3322}_
