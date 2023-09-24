@@ -5,7 +5,7 @@
 
 **Solves** 13
 
-**1st 🥇 Solved **
+**1st 🥇 Solved**
 
 **Description**:
 
@@ -31,5 +31,5 @@ The path for this vuln is **/wordpress/wp-content/plugins/advanced-custom-fields
 
 And the type of the vuln in [RCE](https://en.wikipedia.org/wiki/RCE_-_Remote_Code_Execution), so our flag is there...
 
-**FLAG** acdfCTF{RCE-/wordpress/wp-content/plugins/advanced-custom-fields-pro/acf.php?cmd=dir} 
+**FLAG**: acdfCTF{RCE-/wordpress/wp-content/plugins/advanced-custom-fields-pro/acf.php?cmd=dir} 
 
