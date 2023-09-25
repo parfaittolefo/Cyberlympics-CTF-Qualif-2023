@@ -8,6 +8,7 @@ M. R0b0t 2
 This image is from the series Mr. Robot. Can you find the exact location?
 
 Flag format: acdfCTF{Real Madrid, Leganes, Madrid City}
+
 </détails>
 
 # Solution
