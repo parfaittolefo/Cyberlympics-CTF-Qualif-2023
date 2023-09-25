@@ -5,8 +5,7 @@ Pirate Osint
 
 **Pts : 50**
 
-Ohé, camarade pirate OSINT ! Votre voyage inaugural commence par une vaillante quête : découvrez l'année de construction du navire capturé dans l'image ci-dessous. Aiguisez votre esprit, car c'est le premier trésor que vous recherchez sur ce vaste océan numérique d'informations!
- 
+Ahoy, fellow pirate OSINT! Your maiden voyage begins with a valiant quest: discover the year the ship was built captured in the image below. Sharpen your mind, because this is the first treasure you seek on this vast digital ocean of information!
  <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/ship.png'>
  
  img/ship.png
@@ -19,11 +18,10 @@ Format du drapeau : acdfCTF{1998}
 <détails><summary>Solution</summary>
 
 
-En effectuant un zoom rapproché sur l'image, nous avons remarqué l'inscription "TREASURES" sur le navire.
-
+Zooming in closely on the image, we noticed the inscription "TREASURES" on the ship.
 <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%20du%202023-09-25%2003-05-46.png'>
 
-Cette indication nous a permis d'identifier le navire sous le nom "TREASURES". Cependant, nous avons ensuite effectué une recherche sur Google pour trouver des informations sur l'année de construction du navire "TREASURES". Cette recherche nous a conduit vers plusieurs sites web traitant du MS TREASURES, et parmi ces nombreux sites, le site https://www.viva-riverside.city/en/ships/ms-treasures s'est avéré être le plus complet, fournissant plusieurs informations sur ce paquebot.
+This indication allowed us to identify the vessel under the name “TREASURES”. However, we then did a Google search to find information on the year the ship "TREASURES" was built. This search led us to several websites dealing with MS TREASURES, and among these many sites, the site https://www.viva-riverside.city/en/ships/ms-treasures turned out to be the most comprehensive, providing several information on this liner.
 
 <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%20du%202023-09-25%2003-05-01.png'>
 
