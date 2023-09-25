@@ -1,6 +1,6 @@
 # States
 
-<details><summary>Énoncé</summary>
+<details><summary>States</summary>
 Pirate Osint 3
 
 **Pts : 50**
