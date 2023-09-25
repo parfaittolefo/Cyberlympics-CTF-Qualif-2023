@@ -1,6 +1,6 @@
 # Énoncé
 
-<détails><summary>Énoncé</summary>
+<details><summary>Énoncé</summary>
 Pirate Osint
 
 **Pts : 50**
@@ -12,10 +12,10 @@ Ahoy, fellow pirate OSINT! Your maiden voyage begins with a valiant quest: disco
  
 Format du drapeau : acdfCTF{1998}
 
-</détails>
+</details>
 
 # Solution
-<détails><summary>Solution</summary>
+<details><summary>Solution</summary>
 
 
 Zooming in closely on the image, we noticed the inscription "TREASURES" on the ship.
@@ -26,4 +26,4 @@ This indication allowed us to identify the vessel under the name “TREASURES”
 <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%20du%202023-09-25%2003-05-01.png'>
 
 **DRAPEAU :** _acdfCTF{2011}_
-</détails>
+</details>
