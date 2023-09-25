@@ -5,16 +5,16 @@ Pirate Osint 3
 
 **Pts : 50**
 
-Quel est le numéro MMSI du navire ?
+What is the vessel's MMSI number?
 
-Format de l'indicateur : acdfCTF{10007894}
+Indicator format: acdfCTF{10007894}
 
 </détails>
 
 # Solution
 <détails><summary>Solution</summary>
-Nous avons entrepris une démarche de recherche sur Google pour identifier le numéro MMSI du MS Treaser. 
-Cette enquête nous a rapidement conduit à un résultat pertinent, accessible directement sur le site web : https://www.vesselfinder.com/vessels/details/269057377 .
+We undertook a Google search to identify the MMSI number of the MS Treasurer.
+This investigation quickly led us to a relevant result, accessible directly on the website: https://www.vesselfinder.com/vessels/details/269057377.
 
 <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%20du%202023-09-25%2004-15-12.png'>
 <img src='https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%20du%202023-09-25%2004-16-06.png'>
