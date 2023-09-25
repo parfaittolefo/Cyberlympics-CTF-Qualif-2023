@@ -1,6 +1,6 @@
 # Énoncé
 
-<détails><summary>Énoncé</summary>
+<details><summary>Énoncé</summary>
 
 M. R0b0t 2
 ***100***
@@ -9,10 +9,10 @@ This image is from the series Mr. Robot. Can you find the exact location?
 
 Flag format: acdfCTF{Real Madrid, Leganes, Madrid City}
 
-</détails>
+</details>
 
 # Solution
-<détails><summary>Solution</summary>
+<details><summary>Solution</summary>
 ![img/mr-robot.jpg](https://github.com/parfaittolefo/Cyberlympics-CTF-Qualif-2023/blob/main/img/mr-robot.jpg)
 For this challenge, we used Yandex to perform an image search.
 Yandex informed us that the image depicted Coney Island. However, we have submitted the format
@@ -25,4 +25,4 @@ This approach allowed us to obtain the flag.
 
 **DRAPEAU :** _acdfCTF{Coney Island, Brooklyn, New York}_
 
-</détails>
+</details>
