@@ -1,6 +1,6 @@
 # States
 
-<details><summary>Énoncé</summary>
+<details><summary>States</summary>
 
 M. R0b0t 2
 ***100***
